@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Activity on PT. S-IK INDONESIA</title>
-    <link>https://edp04.github.io/categories/activity/</link>
-    <description>Recent content in Activity on PT. S-IK INDONESIA</description>
+    <title>News on PT. S-IK INDONESIA</title>
+    <link>https://edp04.github.io/news/</link>
+    <description>Recent content in News on PT. S-IK INDONESIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2019 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://edp04.github.io/categories/activity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://edp04.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,6 +30,17 @@ Kecelakaan terjadi karena berbagai alasan. Di sebagian besar industri, orang cen
       
       <guid>https://edp04.github.io/news/bahaya-kebakaran-dan-penyakit-menular/</guid>
       <description>Musibah kebakaran memberikan efek yang tidak main-main. Bukan hanya Kerugian materi, bahkan korban jiwa pun bisa terjadi karena musibah ini. Menurut data yang dilansir oleh Badan Nasional Penanggulangan Bencana (BNPB) hingga Desember lalu, tepatnya Minggu (22/12/2013), tercatat 16 kasus kebakaran terjadi di DKI Jakarta. Dari jumlah itu, 15 di antaranya diakibatkan karena korsleting arus listrik, sementara satu sebab lainnya akibat tabrakan kereta. Dengan kata lain, peristiwa kebakaran dominan terjadi di kawasan permukiman, dan 100 persen akibat korsleting listrik (ini akan berefek juga pada manufacture).</description>
+    </item>
+    
+    <item>
+      <title>Santunan Anak Yatim 2019</title>
+      <link>https://edp04.github.io/news/santunan-anak-yatim-2019/</link>
+      <pubDate>Sat, 25 May 2019 21:49:20 +0200</pubDate>
+      
+      <guid>https://edp04.github.io/news/santunan-anak-yatim-2019/</guid>
+      <description>BUKA PUASA BERSAMA DAN SANTUNAN ANAK YATIM- Dalam rangka meningkatkan ketakwaan dan memupuk tali silaturahmi antara management dan karyawan, PT. S-IK Indonesia mengadakan acara Buka Buasa Bersama dan Santunan anak Yatim yang diselenggarakan pada 25 Mei 2019.
+Acara tersebut dilaksanakan oleh PT. S-IK Indonesia bekerja sama dengan DKM Masjid Al Ikhlas yang dihadiri oleh Management dan Karyawan PT. S-IK Indonesia dengan mengundang Anak Yatim dari Lingkungan Kabupaten Bekasi.
+Acara tersebut merupakan acara rutin yang dilaksanakan setiap tahun pada bulan Ramadhan.</description>
     </item>
     
     <item>
@@ -61,6 +72,27 @@ Atas dukungan dari karyawan dan berbagai pihak, emergency drill tersebut dapat b
       <guid>https://edp04.github.io/news/ejip-fire-fighting-competition/</guid>
       <description>Sebagai bentuk partisipasi PT. S-IK Indonesia dalam EJIP Fire Fighting Competition dan untuk meningkatkan kompetensi karyawan dalam penanganan situasi darurat Kebakaran, PT. S-IK Indonesia mengikuti EJIP Fire Fighting Competition yang dilaksanakan di EJIP Training Ground pada 18 Oktober 2018. PT. S-IK Indonesia mengirimkan 2 kelompok peserta, yaitu 1 kelompok putri dan satu kelompok putra.
 Walaupun dalam kompetisi tersebut tidak memperoleh juara, tetapi keberanian menjadi salah satu apresiasi, khususnya tim Putri. Hal itu dikarenakan perlu adanya keberanian terhadap api, apalagi dengan jumlah karyawan putri yang sangat terbatas dan didominasi oleh Ibu-ibu.</description>
+    </item>
+    
+    <item>
+      <title>EJIP Go Green</title>
+      <link>https://edp04.github.io/news/ejip-go-green/</link>
+      <pubDate>Fri, 20 Jan 2017 21:49:20 +0200</pubDate>
+      
+      <guid>https://edp04.github.io/news/ejip-go-green/</guid>
+      <description>EJIP GO Green- Dalam rangka mendukung program EJIP GO Green yang diprakarsai FORUM K3L EJIP dan FORUM KOMUNIKASI HR EJIP, PT. S-IK Indonesia mengirimkan beberapa orang karyawan untuk berpartisipasi dalam program tersebut yang dilaksanakan pada tanggal 20 Januari 2017.
+Pada EJIP Go Green tahap 1 tersebut, dilakukan penanaman pohon lebih dari 500 pohon yang dilakukan oleh perwakilan dari Tenant EJIP.
+Dalam kondisi hujan dan lingkungan yang becek, tidak mengurangi semangat dalam mengikuti program tersebut sampai semua pohon selesai ditanam.</description>
+    </item>
+    
+    <item>
+      <title>S-IK Go Green</title>
+      <link>https://edp04.github.io/news/sik-go-green/</link>
+      <pubDate>Thu, 15 Dec 2016 21:49:20 +0200</pubDate>
+      
+      <guid>https://edp04.github.io/news/sik-go-green/</guid>
+      <description>S-IK GO Green- Menyongsong EJIP GO Green yang diprakarsai FORUM K3L EJIP dan FORUM KOMUNIKASI HR EJIP yang rencananya akan dilaksanakan pada tanggal 20 Januari 2017.
+Dalam hal ini, PT. S-IK Indonesia berusaha melakukan upaya-upaya yang bisa dilakukan sebagai bagian dari konservasi lingkungan dengan penanaman 50 buah pohon glodokan tiang pada tanggal 15 Desember 2016 di plant 1 dan plant 2. Upaya ini diharapkan mampu meningkatkan kelembaban relatif, meredam kebisingan, meningkatkan produksi oksigen dan penyerap polusi serta menghadapi isu terkait pemanasan global.</description>
     </item>
     
   </channel>
