@@ -3609,3 +3609,6 @@ a.list-group-item.active > .badge,
 .bg-light{
   background-color: #f8f9fa;
 }
+.lh-3{
+  line-height: 25px !important;
+}
